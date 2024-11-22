@@ -1,6 +1,7 @@
 ### Привет! 👋
 
-## Мои проекты в Galt Systems
+<details>
+<summary>Мои проекты в Galt Systems ()</summary>
 
 1. [Goods-On-Time-B24](https://github.com/Fence2/Goods-On-Time-B24) - Получение статусов заказов в Деловых Линиях
 2. [get-kpi-b24](https://github.com/Fence2/get-kpi-b24) - Получение KPI сотрудников в Битрикс24
@@ -37,3 +38,4 @@
 33. [DeleteChatMembers](https://github.com/Fence2/DeleteChatMembers) - Массовое исключение сотрудников из групповых чатов
 34. [1C_Bitrix_Partners_Parser](https://github.com/Fence2/1C_Bitrix_Partners_Parser) - Парсер партнеров 1С-Битрикс
 35. [Photo-Convert-For-1C-Upload](https://github.com/Fence2/Photo-Convert-For-1C-Upload) - Корректировка фото товаров по JSON массиву
+</details>
